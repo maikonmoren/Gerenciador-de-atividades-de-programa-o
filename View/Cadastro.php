@@ -37,7 +37,7 @@
                         <h1 class="card-title text-center" style="color: whitesmoke; background-color: yellowgreen">CD-WE- Inscrição</h1>
                         <form role="form" class="form-signin" action="../action/pessoaAction.php" method="POST" data-toggle="validator">
                     <div class="form-group">
-                        <label>Nome</label>
+                        <label>Nome    </label>
                         <input type="text" class="form-control"  id="inputName" placeholder="Nome" name="nome" required>
                         <!-- Error -->
                         <div class="help-block with-errors"></div>
