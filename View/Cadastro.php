@@ -34,7 +34,7 @@
             <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
                 <div class="card card-signin my-5">
                     <div class="card-body">
-                        <h1 class="card-title text-center" style="color: whitesmoke; background-color: yellowgreen">CD-WEB - Inscrição</h1>
+                        <h1 class="card-title text-center" style="color: whitesmoke; background-color: yellowgreen">CD-WE- Inscrição</h1>
                         <form role="form" class="form-signin" action="../action/pessoaAction.php" method="POST" data-toggle="validator">
                     <div class="form-group">
                         <label>Nome</label>
