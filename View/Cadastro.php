@@ -44,7 +44,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label>Nome de usúario</label>
+                        <label>Nome de usúario       </label>
                         <input type="text" class="form-control" name="usuario" 
                         pattern="^[a-zA-Z0-9_.-]*$" id="inputUsername" placeholder="Usúario" required>
 
