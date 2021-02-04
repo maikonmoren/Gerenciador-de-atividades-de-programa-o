@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="form-group col">
-                        <label>Confirmar senha</label>
+                        <label>Confirmar senha    </label>
                         <div class="form-group">
                             <input type="password" class="form-control" id="inputConfirmPassword"
                                 data-match="#inputPassword" data-match-error="Senhas diferentes "
